@@ -75,6 +75,8 @@
               "browserTarget": "angular-class:build:production"
             },
             "development": {
+              "open": false,
+              "allowedHosts": ["4200-gitpodio-templatetypescr-eopi9dx13eo.ws-eu38.gitpod.io"],
               "browserTarget": "angular-class:build:development"
             }
           },
